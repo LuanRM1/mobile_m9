@@ -28,10 +28,6 @@ npm start
 
 1. Navegue até o diretório do app:
 
-```bash
-cd CardGameApp
-```
-
 2. Instale as dependências:
 
 ```bash
