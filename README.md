@@ -1,3 +1,5 @@
+[Vídeo](https://drive.google.com/file/d/1fDACMbj216JF1OK1nb8q8hDa9hpMy6oG/view?usp=sharing)
+
 # Jogo da Memória
 
 Um jogo da memória construído com React Native/Expo, apresentando cartas com emojis e power-ups. Os jogadores podem usar seus nicknames para salvar o progresso e coletar modificadores para ajudá-los durante o jogo.
