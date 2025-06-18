@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "3al7L9GsZDpujie38LtW0",
+      "nick": "luan",
+      "inventory": {
+        "reveal": 0,
+        "shuffle": 1,
+        "skip": 3
+      }
+    },
+    {
+      "id": "_OkWWYZmeu786bRCoO219",
+      "nick": "pedro",
+      "inventory": {
+        "reveal": 0,
+        "shuffle": 1,
+        "skip": 0
+      }
+    }
+  ]
+}
